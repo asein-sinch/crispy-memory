@@ -1,5 +1,5 @@
 {
-  "name": "@crispy/conversation",
+  "name": "@crispy-1a/conversation",
   "version": "0.0.1-alphajet",
   "description": "Sinch Conversation API",
   "homepage": "",
@@ -29,7 +29,7 @@
     "test:e2e": "cucumber-js"
   },
   "dependencies": {
-    "@crispy/sdk-client": "0.0.1-alphajet"
+    "@crispy-1a/sdk-client": "0.0.1-alphajet"
   },
   "devDependencies": {},
   "publishConfig": {

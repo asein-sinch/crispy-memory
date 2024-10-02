@@ -1,4 +1,4 @@
-import { ApiListPromise } from '@crispy/sdk-client';
+import { ApiListPromise } from '@crispy-1a/sdk-client';
 import { ContactApi } from './contact-api';
 import {
   Contact,

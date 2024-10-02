@@ -16,7 +16,7 @@ import {
   SinchClientParameters,
   buildPageResultPromise,
   createIteratorMethodsForPagination,
-} from '@crispy/sdk-client';
+} from '@crispy-1a/sdk-client';
 import { SmsDomainApi } from '../sms-domain-api';
 
 export class GroupsApi extends SmsDomainApi {

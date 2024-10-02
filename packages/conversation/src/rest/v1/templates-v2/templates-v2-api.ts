@@ -12,7 +12,7 @@ import {
 import {
   RequestBody,
   SinchClientParameters,
-} from '@crispy/sdk-client';
+} from '@crispy-1a/sdk-client';
 import { ConversationDomainApi } from '../conversation-domain-api';
 
 export class TemplatesV2Api extends ConversationDomainApi {

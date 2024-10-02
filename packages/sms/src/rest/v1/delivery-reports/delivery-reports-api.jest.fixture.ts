@@ -6,7 +6,7 @@ import {
   ListDeliveryReportsRequestData,
   RecipientDeliveryReport,
 } from '../../../models';
-import { ApiListPromise } from '@crispy/sdk-client';
+import { ApiListPromise } from '@crispy-1a/sdk-client';
 
 export class DeliveryReportsApiFixture implements Partial<Readonly<DeliveryReportsApi>> {
 

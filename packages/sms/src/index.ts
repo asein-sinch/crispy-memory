@@ -1,3 +1,3 @@
 export * as Sms from './models';
 export * from './rest';
-export * from '@crispy/sdk-client';
+export * from '@crispy-1a/sdk-client';

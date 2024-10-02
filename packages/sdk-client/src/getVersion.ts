@@ -1,2 +1,2 @@
-import { version as coreVersion } from '@crispy/sdk-client/package.json';
+import { version as coreVersion } from '@crispy-1a/sdk-client/package.json';
 export const sdkCoreVersion = coreVersion;

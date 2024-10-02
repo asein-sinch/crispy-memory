@@ -1,7 +1,7 @@
 import {
   RequestBody,
   SinchClientParameters,
-} from '@crispy/sdk-client';
+} from '@crispy-1a/sdk-client';
 import {
   TranscodeMessageRequestData,
   TranscodeMessageResponse,

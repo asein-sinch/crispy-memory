@@ -17,7 +17,7 @@ import {
   TextResponse,
   UpdateBatchMessageRequestData,
 } from '../../../models';
-import { ApiListPromise } from '@crispy/sdk-client';
+import { ApiListPromise } from '@crispy-1a/sdk-client';
 
 export class BatchesApiFixture implements Partial<Readonly<BatchesApi>> {
 

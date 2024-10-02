@@ -6,7 +6,7 @@ import {
   PaginationEnum,
   RequestBody,
   SinchClientParameters,
-} from '@crispy/sdk-client';
+} from '@crispy-1a/sdk-client';
 import {
   ConversationMessage,
   DeleteMessageRequestData,

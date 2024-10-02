@@ -1,5 +1,5 @@
 import { DeliveryReport, MOBinary, MOText, RecipientDeliveryReport } from '../../../models';
-import { CallbackProcessor } from '@crispy/sdk-client';
+import { CallbackProcessor } from '@crispy-1a/sdk-client';
 import { IncomingHttpHeaders } from 'http';
 
 export type SmsCallback = DeliveryReport | RecipientDeliveryReport | MOText | MOBinary;

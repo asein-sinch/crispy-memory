@@ -22,7 +22,7 @@ import {
   UnsupportedCallbackEvent,
   WebhookTrigger,
 } from '../../../models';
-import { CallbackProcessor, validateWebhookSignature } from '@crispy/sdk-client';
+import { CallbackProcessor, validateWebhookSignature } from '@crispy-1a/sdk-client';
 import { IncomingHttpHeaders } from 'http';
 
 interface WebhookTriggerEvent {

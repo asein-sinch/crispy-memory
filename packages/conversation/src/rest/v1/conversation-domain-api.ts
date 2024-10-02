@@ -10,7 +10,7 @@ import {
   SinchClientParameters,
   SupportedConversationRegion,
   UnifiedCredentials,
-} from '@crispy/sdk-client';
+} from '@crispy-1a/sdk-client';
 
 export class ConversationDomainApi implements Api {
   public readonly apiName: string;

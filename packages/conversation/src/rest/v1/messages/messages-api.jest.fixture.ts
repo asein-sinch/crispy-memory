@@ -1,4 +1,4 @@
-import { ApiListPromise } from '@crispy/sdk-client';
+import { ApiListPromise } from '@crispy-1a/sdk-client';
 import { MessagesApi } from './messages-api';
 import {
   ConversationMessage,

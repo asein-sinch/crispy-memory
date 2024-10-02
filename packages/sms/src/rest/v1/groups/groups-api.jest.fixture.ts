@@ -9,7 +9,7 @@ import {
   GetGroupRequestData,
   UpdateGroupRequestData,
 } from '../../../models';
-import { ApiListPromise } from '@crispy/sdk-client';
+import { ApiListPromise } from '@crispy-1a/sdk-client';
 
 export class GroupsApiFixture implements Partial<Readonly<GroupsApi>> {
 

@@ -1,4 +1,4 @@
-import { ApiListPromise } from '@crispy/sdk-client';
+import { ApiListPromise } from '@crispy-1a/sdk-client';
 import { EventsApi } from './events-api';
 import {
   ConversationEvent,

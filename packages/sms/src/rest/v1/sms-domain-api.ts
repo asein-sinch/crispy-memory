@@ -10,7 +10,7 @@ import {
   UnifiedCredentials,
   ServicePlanIdCredentials,
   SupportedSmsRegion,
-} from '@crispy/sdk-client';
+} from '@crispy-1a/sdk-client';
 
 export class SmsDomainApi implements Api {
   public readonly apiName: string;

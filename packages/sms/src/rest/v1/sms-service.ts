@@ -1,6 +1,6 @@
 import {
   SinchClientParameters, SmsRegion,
-} from '@crispy/sdk-client';
+} from '@crispy-1a/sdk-client';
 import { GroupsApi } from './groups';
 import { DeliveryReportsApi } from './delivery-reports';
 import { BatchesApi } from './batches';

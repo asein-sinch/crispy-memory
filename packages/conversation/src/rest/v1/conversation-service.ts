@@ -1,4 +1,4 @@
-import { ConversationRegion, SinchClientParameters } from '@crispy/sdk-client';
+import { ConversationRegion, SinchClientParameters } from '@crispy-1a/sdk-client';
 import { ContactApi } from './contact';
 import { AppApi } from './app';
 import { EventsApi } from './events';

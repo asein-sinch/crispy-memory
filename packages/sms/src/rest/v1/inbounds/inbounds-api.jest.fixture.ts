@@ -1,6 +1,6 @@
 import { InboundsApi } from './inbounds-api';
 import { InboundMessageResponse, ListInboundMessagesRequestData, GetInboundMessageRequestData } from '../../../models';
-import { ApiListPromise } from '@crispy/sdk-client';
+import { ApiListPromise } from '@crispy-1a/sdk-client';
 
 export class InboundsApiFixture implements Partial<Readonly<InboundsApi>> {
 
