@@ -1,3 +1,5 @@
 node_modules
 .idea
 tsconfig.tsbuildinfo
+.env
+packages/**/dist
